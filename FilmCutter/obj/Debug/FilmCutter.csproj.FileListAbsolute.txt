@@ -1,0 +1,16 @@
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.exe.config
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.exe
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.pdb
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\MediaToolkit.dll
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.csprojResolveAssemblyReference.cache
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.exe
+c:\users\aik\documents\visual studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.pdb
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.exe.config
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.exe
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\FilmCutter.pdb
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\bin\Debug\MediaToolkit.dll
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.exe
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.pdb
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.csprojAssemblyReference.cache
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.csproj.CoreCompileInputs.cache
+C:\Users\kayvaldo\Documents\Visual Studio 2013\Projects\FilmCutter\FilmCutter\obj\Debug\FilmCutter.csproj.CopyComplete
